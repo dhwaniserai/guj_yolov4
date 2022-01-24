@@ -1,0 +1,5 @@
+classes = 84
+train = /home/fcrit/work/training/config/train.txt
+valid = /home/fcrit/work/training/config/train.txt
+names = /home/fcrit/work/training/guj_data_files/space.names
+backup = /home/fcrit/work/training/weights/
